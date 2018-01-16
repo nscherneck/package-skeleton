@@ -1,0 +1,17 @@
+{
+    "name": "nscherneck/package-skeleton",
+    "description": "A container for future packages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nathan Scherneck",
+            "email": "nathan.scherneck@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "nscherneck\\package-skeleton\\": "src/"
+        }
+    }
+}
